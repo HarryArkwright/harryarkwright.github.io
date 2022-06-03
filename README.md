@@ -1,3 +1,5 @@
-# harryarkwright.github.io
-Harry Arkwright Personal Website
-<ul> harryarkwright.github.io </ul>
+# personal-website
+Personal website to showcase CV, Projects and More.
+
+![Personal website with particle effect](/assets/images/website-screenshot.png)
+
